@@ -1,0 +1,12 @@
+# data
+-final_pj_code
+  - data
+    - Dev_Data
+      - subtaskA_dev_data.csv
+      - subtaskA_gold_answers.csv
+    - Test_Data
+      - subtaskA_gold_answers.csv
+      - subtaskA_test_data.csv
+    - Training_Data
+      - subtaskA_answers_all.csv
+      - subtaskA_data_all.csv
